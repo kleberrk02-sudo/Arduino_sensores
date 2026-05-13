@@ -67,3 +67,14 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Arduino específicas
+*.hex
+*.elf
+*.eep
+*.bin
+
+# Pastas de cache e ferramentas de upload
+.cc.flags
+.s.flags
+.ar.flags
