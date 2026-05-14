@@ -5,9 +5,6 @@ O projeto é otimizado para o simulador PICSimLab e segue padrões profissionais
 
 Funcionalidades:
 
-* Exibição em múltiplos displays LCD via I2C.
-* Compatível com o simulador PICSimLab.
-
 **Termômetro NTC:** Leitura de temperatura analógica utilizando a Equação Beta para conversão de resistência em Celsius.
 
 **Acelerômetro ADXL345:** Monitoramento de aceleração nos eixos X, Y e Z com suporte a diferentes escalas de sensibilidade (G).
@@ -19,3 +16,6 @@ Funcionalidades:
 **Encoder Rotativo:** Controle de posição e sentido de giro (horário/anti-horário) utilizando interrupções de hardware para alta precisão.
 
 **Estação Climática (BMP180):** Monitoramento barométrico de pressão atmosférica e temperatura via protocolo I2C.
+
+* Exibição em múltiplos displays LCD via I2C.
+* Compatível com o simulador PICSimLab.
